@@ -40,7 +40,7 @@ It is worth noting here that the reviews and calendar files did not have overlap
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [to be written](link-to-my-first-medium-blog-post).
+The main findings of the code can be found at the [link-to-my-first-medium-blog-post](to-be-written).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
