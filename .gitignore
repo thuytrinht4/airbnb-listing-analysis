@@ -1,0 +1,5 @@
+# folder with raw data since they are big in size and not situable for storing in Github
+data/raw/
+
+# others
+.idea/
