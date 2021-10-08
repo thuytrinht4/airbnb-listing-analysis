@@ -15,20 +15,25 @@ Below is the packages and version used for this project. However, I reckon it wi
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in analyzing data from AirBnB homes located in Seattle and Boston.  Specifically, I looked at the following questions:
+For this project, I was interested in analyzing data from AirBnB homes located in Seattle and Boston.  Specifically, I looked at the following aspects and questions:
 
-1. How many rooms available for rent in Seattle and Boston listed in AirBNB on average (per-month, per-year)? 
-What type of rooms, what are the average rental rate per type. Which types are most popular?  
-2. Are there any area in which many rooms are listed for rent in each city? 
-3. Are there seasonality components or price spiking components for how hosts set their home prices? How does this compare from Boston to Seattle?
-4. What are the most common words used to describe a listing? Are the same words used for Seattle and Boston homes?
+1. General characteristics for rental market in the two cities: 
+    + What is the total number of rooms available for rent listed in AirBNB at the time of data collection? 
+    + What type of rooms are offered? What are the average rental rate for each type? Which types are most popular? 
+    + Are there any area in which many rooms are listed for rent in each city? 
+2. Seasonality components:
+    + Are there season or period that prices tend to be higher or lower than average? 
+    + How does this compare from Boston to Seattle?
+3. Keywords used in housing description:
+    + What are the most common words used to describe a listing? 
+    + Are the same words used for Seattle and Boston homes?
 
 
 ## File Descriptions <a name="files"></a>
 
 The following are the files available in this repository:
 
-* `tobecreated_analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
+* `AirBNB_Listing_Analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
 
 * `calendar_seattle.csv` and `calendar_boston.csv` - csvs containing **home_id**, **date**, **availability**, and **price** for each home
 
