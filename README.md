@@ -21,8 +21,7 @@ Specifically, I'd like to know the general characteristics for rental market in 
 
 1. What is the total number of rooms available for rent listed in AirBNB at the time of data collection? 
 2. What type of rooms are offered? What are the average rental rate for each type? Which types are most popular? 
-3. What are the areas where most rooms are listed for rent in each city? 
-4. Are there seasons or periods during which prices tend to be higher or lower than average? How does this compare from Boston to Seattle?
+3. What are the areas where most rooms are listed for rent in each city?
 
 
 ## File Descriptions <a name="files"></a>
