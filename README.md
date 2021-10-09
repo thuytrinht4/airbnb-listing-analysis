@@ -41,9 +41,9 @@ The data used for this project was complied on September 23, 2021. It is downloa
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at my [Kaggle Blog Post](to-be-written).
+The main findings of the code can be found at my [Kaggle Blog Post](https://www.kaggle.com/thuytrinht4/airbnb-listings-analysis-seattle-vs-boston).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to AirBnB for the data.  
-You can find the Licensing for the data and other descriptive information for the [Behind Inside Airbnb](https://www.kaggle.com/thuytrinht4/airbnb-listings-analysis-seattle-vs-boston).  
+You can find the Licensing for the data and other descriptive information for the [Behind Inside Airbnb](http://insideairbnb.com/behind.html).  
